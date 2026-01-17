@@ -42,7 +42,7 @@ The project followed a structured data pipeline to ensure data integrity and ana
 
    ➤ Interactivity: Added Slicers for "Order Date," "Delivery Date," and "Occasion," allowing stakeholders to filter the entire                dashboard with a single click.
    
-   Key Insights from the Dashboard
+Key Insights from the Dashboard
 
    ● High-Level Metrics: The business achieved ₹3,520,984 in Total Revenue from 1,000 orders, with an average customer spend of ₹3,520.98.
 
